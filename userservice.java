@@ -8,4 +8,4 @@ class userservice{
         System.out.println("who do you want as your mistress");
 
     }
-} 
+}
