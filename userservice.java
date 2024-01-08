@@ -5,6 +5,7 @@ class userservice{
         System.out.print("Enter your name");
         String name=sc.nextLine();
         System.out.println("welcome Mr"+name);
+        System.out.println("who do you want as your mistress");
 
     }
 }
