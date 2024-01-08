@@ -6,6 +6,7 @@ class userservice{
         String name=sc.nextLine();
         System.out.println("welcome Mr"+name);
         System.out.println("who do you want as your mistress");
+        System.out.println("create an avatar for user");
 
     }
 }
